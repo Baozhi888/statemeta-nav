@@ -1,0 +1,13 @@
+services:
+  statemeta:
+    build: .
+    container_name: statemeta-nav
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:17777:80"
+    volumes:
+      - ./public/data:/usr/share/nginx/html/data:ro
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
