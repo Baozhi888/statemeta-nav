@@ -1,15 +1,15 @@
 # Baozhi888 · GitHub Repository Navigator
 
-> 自动整理 1722 个 Star 与 722 个自有仓库。
+> 自动整理 1721 个 Star 与 722 个自有仓库。
 
 在线导航：**https://statemeta.oaicn.org**
 
 ## 分类统计
 
-- AI / LLM: 1131
-- Other: 282
+- AI / LLM: 1132
+- Other: 281
 - Web / Frontend: 211
-- API / Proxy: 142
+- API / Proxy: 141
 - DevOps / Cloud: 96
 - Media / Design: 88
 - Tools / Productivity: 77
