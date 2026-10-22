@@ -10,11 +10,11 @@
 - Other: 285
 - Web / Frontend: 211
 - API / Proxy: 142
-- DevOps / Cloud: 95
+- DevOps / Cloud: 96
 - Media / Design: 88
 - Tools / Productivity: 77
 - Automation / Crawler: 74
-- Backend / Database: 69
+- Backend / Database: 68
 - Android / Mobile: 57
 - Data / Finance: 54
 - Learning / Resources: 34
